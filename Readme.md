@@ -1,9 +1,4 @@
----
-layout: default
-title: Saloni Potdar
----
-
-# Saloni Potdar
+# Ankit Jindal
 
 **AI/ML Manager @ Apple Knowledge**
 
