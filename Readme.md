@@ -2,8 +2,6 @@
 
 **GenAI/AI/ML/DFT @ Nvidia**
 
-|  |  | 
-
 ## About Me
 
 I am a GenAI/AI/ML and DFT(VLSI) Engineer at Nvidia where I work on Large Language Models, Natural Language Processing and Machine Learning. Innovative AI Engineer adept at optimizing model architectures and training techniques. Experi- enced in publishing impactful work in top-tier conferences. Proficient in Python, ML and Gen-AI Tools and Algorithms, with a strong record of problem-solving and communication skills. I got my Masters degree at the IIT Bombay in 2018.
