@@ -1,6 +1,4 @@
-# Ankit Jindal
-
-**Generative AI/ML for VLSI @ Nvidia**
+# Generative AI/ML for VLSI @ Nvidia
 
 ## About Me
 
