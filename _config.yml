@@ -1,3 +1,10 @@
-title: My GitHub Pages Site
-description: Just another Jekyll site
-theme: jekyll-theme-cayman
+# _config.yml
+title: Ankit Jindal
+description: Generative AI/ML for VLSI @ Nvidia
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://iitbankit.github.io/ankitjindal.github.io/" # the base hostname & protocol for your site
+author:
+  name: Ankit Jindal
+  email: jindalankit78@example.com
+  github: iitbankit
+theme: poole
