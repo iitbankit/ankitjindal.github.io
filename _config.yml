@@ -7,7 +7,7 @@ author:
   name: Ankit Jindal
   email: jindalankit78@example.com
   github: iitbankit
-theme: poole
+theme: minima
 
 plugins:
   - jekyll-feed
